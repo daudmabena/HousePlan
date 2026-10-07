@@ -1,0 +1,7 @@
+{
+  "name": "budget-my-house", "version": "2.0.0", "private": true,
+  "scripts": {"dev": "next dev", "build": "next build", "start": "next start", "typecheck": "tsc --noEmit", "test": "node --import tsx --test tests/*.test.ts", "test:browser": "playwright test"},
+  "engines": {"node": ">=22"},
+  "dependencies": {"@supabase/supabase-js": "^2.0.0", "lucide-react": "^0.468.0", "next": "^16.0.0", "react": "^19.0.0", "react-dom": "^19.0.0", "zod": "^4.0.0"},
+  "devDependencies": {"@types/node": "^22.0.0", "@types/react": "^19.0.0", "@types/react-dom": "^19.0.0", "tsx": "^4.0.0", "typescript": "^5.0.0", "@playwright/test": "^1.0.0", "@electric-sql/pglite": "^0.3.0"}
+}

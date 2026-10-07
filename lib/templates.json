@@ -1,0 +1,338 @@
+{
+  "stages": [
+    {
+      "name": "Site preparations",
+      "sort_order": 0
+    },
+    {
+      "name": "Foundation",
+      "sort_order": 1
+    },
+    {
+      "name": "Wall",
+      "sort_order": 2
+    },
+    {
+      "name": "Renta",
+      "sort_order": 3
+    },
+    {
+      "name": "3 courses after renta",
+      "sort_order": 4
+    },
+    {
+      "name": "Septic tank",
+      "sort_order": 5
+    },
+    {
+      "name": "Fence",
+      "sort_order": 6
+    },
+    {
+      "name": "Roofing",
+      "sort_order": 7
+    },
+    {
+      "name": "Grills",
+      "sort_order": 8
+    },
+    {
+      "name": "Plumbing and sanitary ware",
+      "sort_order": 9
+    },
+    {
+      "name": "Wiring, sockets and switches",
+      "sort_order": 10
+    },
+    {
+      "name": "Plaster",
+      "sort_order": 11
+    },
+    {
+      "name": "Skimming",
+      "sort_order": 12
+    },
+    {
+      "name": "Gypsum board",
+      "sort_order": 13
+    },
+    {
+      "name": "Tiles",
+      "sort_order": 14
+    },
+    {
+      "name": "Painting",
+      "sort_order": 15
+    },
+    {
+      "name": "Cabinetry (kitchen and rooms)",
+      "sort_order": 16
+    },
+    {
+      "name": "Tank tower with toilet",
+      "sort_order": 17
+    },
+    {
+      "name": "Outside store with kitchen",
+      "sort_order": 18
+    },
+    {
+      "name": "Landscaping",
+      "sort_order": 19
+    }
+  ],
+  "items": [
+    {
+      "name": "Site clearing",
+      "unit": "service",
+      "sort_order": 0,
+      "stage_order": 0
+    },
+    {
+      "name": "Setting out and surveying",
+      "unit": "service",
+      "sort_order": 1,
+      "stage_order": 0
+    },
+    {
+      "name": "Cement",
+      "unit": "bags",
+      "sort_order": 2,
+      "stage_order": 1
+    },
+    {
+      "name": "Sand",
+      "unit": "loads",
+      "sort_order": 3,
+      "stage_order": 1
+    },
+    {
+      "name": "Aggregates",
+      "unit": "loads",
+      "sort_order": 4,
+      "stage_order": 1
+    },
+    {
+      "name": "Reinforcement steel",
+      "unit": "kg",
+      "sort_order": 5,
+      "stage_order": 1
+    },
+    {
+      "name": "Foundation labour",
+      "unit": "service",
+      "sort_order": 6,
+      "stage_order": 1
+    },
+    {
+      "name": "Wall blocks",
+      "unit": "pieces",
+      "sort_order": 7,
+      "stage_order": 2
+    },
+    {
+      "name": "Mortar materials",
+      "unit": "batch",
+      "sort_order": 8,
+      "stage_order": 2
+    },
+    {
+      "name": "Masonry labour",
+      "unit": "service",
+      "sort_order": 9,
+      "stage_order": 2
+    },
+    {
+      "name": "Renta concrete and reinforcement",
+      "unit": "batch",
+      "sort_order": 10,
+      "stage_order": 3
+    },
+    {
+      "name": "Formwork and labour",
+      "unit": "service",
+      "sort_order": 11,
+      "stage_order": 3
+    },
+    {
+      "name": "Upper wall blocks",
+      "unit": "pieces",
+      "sort_order": 12,
+      "stage_order": 4
+    },
+    {
+      "name": "Upper wall cement",
+      "unit": "bags",
+      "sort_order": 13,
+      "stage_order": 4
+    },
+    {
+      "name": "Septic tank materials",
+      "unit": "batch",
+      "sort_order": 14,
+      "stage_order": 5
+    },
+    {
+      "name": "Septic tank labour",
+      "unit": "service",
+      "sort_order": 15,
+      "stage_order": 5
+    },
+    {
+      "name": "Fence blocks and cement",
+      "unit": "batch",
+      "sort_order": 16,
+      "stage_order": 6
+    },
+    {
+      "name": "Fence gate",
+      "unit": "piece",
+      "sort_order": 17,
+      "stage_order": 6
+    },
+    {
+      "name": "Fence labour",
+      "unit": "service",
+      "sort_order": 18,
+      "stage_order": 6
+    },
+    {
+      "name": "Roof trusses",
+      "unit": "set",
+      "sort_order": 19,
+      "stage_order": 7
+    },
+    {
+      "name": "Roof sheets and accessories",
+      "unit": "set",
+      "sort_order": 20,
+      "stage_order": 7
+    },
+    {
+      "name": "Roofing labour",
+      "unit": "service",
+      "sort_order": 21,
+      "stage_order": 7
+    },
+    {
+      "name": "Window and door grills",
+      "unit": "set",
+      "sort_order": 22,
+      "stage_order": 8
+    },
+    {
+      "name": "Pipes and fittings",
+      "unit": "set",
+      "sort_order": 23,
+      "stage_order": 9
+    },
+    {
+      "name": "Sanitary ware",
+      "unit": "set",
+      "sort_order": 24,
+      "stage_order": 9
+    },
+    {
+      "name": "Plumbing labour",
+      "unit": "service",
+      "sort_order": 25,
+      "stage_order": 9
+    },
+    {
+      "name": "Electrical cables and conduit",
+      "unit": "set",
+      "sort_order": 26,
+      "stage_order": 10
+    },
+    {
+      "name": "Sockets and switches",
+      "unit": "set",
+      "sort_order": 27,
+      "stage_order": 10
+    },
+    {
+      "name": "Electrical labour",
+      "unit": "service",
+      "sort_order": 28,
+      "stage_order": 10
+    },
+    {
+      "name": "Plaster materials and labour",
+      "unit": "service",
+      "sort_order": 29,
+      "stage_order": 11
+    },
+    {
+      "name": "Skimming materials and labour",
+      "unit": "service",
+      "sort_order": 30,
+      "stage_order": 12
+    },
+    {
+      "name": "Gypsum boards and installation",
+      "unit": "service",
+      "sort_order": 31,
+      "stage_order": 13
+    },
+    {
+      "name": "Floor and wall tiles",
+      "unit": "m²",
+      "sort_order": 32,
+      "stage_order": 14
+    },
+    {
+      "name": "Tile adhesive and labour",
+      "unit": "service",
+      "sort_order": 33,
+      "stage_order": 14
+    },
+    {
+      "name": "Paint and primer",
+      "unit": "litres",
+      "sort_order": 34,
+      "stage_order": 15
+    },
+    {
+      "name": "Painting labour",
+      "unit": "service",
+      "sort_order": 35,
+      "stage_order": 15
+    },
+    {
+      "name": "Kitchen cabinets",
+      "unit": "set",
+      "sort_order": 36,
+      "stage_order": 16
+    },
+    {
+      "name": "Bedroom wardrobes",
+      "unit": "set",
+      "sort_order": 37,
+      "stage_order": 16
+    },
+    {
+      "name": "Water tank and tower",
+      "unit": "set",
+      "sort_order": 38,
+      "stage_order": 17
+    },
+    {
+      "name": "Toilet construction",
+      "unit": "service",
+      "sort_order": 39,
+      "stage_order": 17
+    },
+    {
+      "name": "Store and outside kitchen",
+      "unit": "service",
+      "sort_order": 40,
+      "stage_order": 18
+    },
+    {
+      "name": "Landscaping materials and labour",
+      "unit": "service",
+      "sort_order": 41,
+      "stage_order": 19
+    }
+  ]
+}
